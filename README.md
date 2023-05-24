@@ -1,6 +1,14 @@
 # actividadespublicas
 
 
+### Minando Monero 
+
+![257755872_877493262952729_6970625830727430991_n](https://github.com/cypherplatxs/actividadespublicas/assets/87844898/80b51552-e2fe-46c2-a39b-818c0c706274)
+
+
+### Taller lightning network
+![254120361_625378475310594_7330306667210810306_n](https://github.com/cypherplatxs/actividadespublicas/assets/87844898/3d3ef460-045d-45e5-a629-987e92ec0fdb)
+
 
 ### Redes Cadenas y otros Amigos 
 
