@@ -31,4 +31,11 @@
 ![blockchain](https://github.com/cypherplatxs/actividadespublicas/assets/87844898/9e4ddcc2-431f-4421-a7c7-146816ffa20c)
 
 
+## INDICADORES 
 
+| Column 1 | 2021     | 2022     | 2023    |
+|----------|----------|----------|---------|
+| Row 1    | 28       |  4       | 13      |
+| Row 2    | 38       |  7       | 68      |
+| Row 3    | 1        |          | 7       |
+|Total     | 67       | 11       | 88      |   
