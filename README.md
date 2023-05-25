@@ -1,5 +1,15 @@
 # actividadespublicas
 
+## INDICADORES DE PARTICIPANTES
+
+|          | 2021     | 2022     | 2023    |      |
+|----------|----------|----------|---------|------|
+| Mujeres  | 28       |  4       | 13      |      |
+| Hombres  | 38       |  7       | 68      |      |
+|No Binaie | 1        |          | 7       |      |
+|Total     | 67       | 11       | 88      |  166 |
+
+
 
 ### Minando Monero 
 
@@ -31,11 +41,3 @@
 ![blockchain](https://github.com/cypherplatxs/actividadespublicas/assets/87844898/9e4ddcc2-431f-4421-a7c7-146816ffa20c)
 
 
-## INDICADORES 
-
-|          | 2021     | 2022     | 2023    |      |
-|----------|----------|----------|---------|------|
-| Mujeres  | 28       |  4       | 13      |      |
-| Hombres  | 38       |  7       | 68      |      |
-|No Binaie | 1        |          | 7       |      |
-|Total     | 67       | 11       | 88      |  166 |
